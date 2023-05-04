@@ -3,6 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:92a8d1,100:f4f6fa&height=300&section=header&text=Programmer%20Yes25&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Yes25's%20GitHub!&descAlignY=51&descAlign=62)
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerYes25&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerYes25&layout=compact&langs_count=8)](https://github.com/ProgrammerYes25/github-readme-stats)
+
+ #
 
 ## 💡 Skills 💡
   
@@ -40,10 +44,5 @@
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=atom&logoColor=white"/>
-
-
-#
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerYes25&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerYes25&layout=compact&langs_count=8)](https://github.com/ProgrammerYes25/github-readme-stats)
+  
 </div>
